@@ -13,3 +13,6 @@
 
 ## Wrong Guesses
 <img width="658" alt="Screen Shot 2021-01-17 at 8 36 16 PM" src="https://user-images.githubusercontent.com/67882898/104863470-fe3b3880-5903-11eb-8cdb-08101c91f17c.png">
+
+## Game Ends
+<img width="652" alt="Screen Shot 2021-01-17 at 8 36 54 PM" src="https://user-images.githubusercontent.com/67882898/104863501-1c089d80-5904-11eb-9bf5-e87a69adf38a.png">
