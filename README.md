@@ -1,4 +1,4 @@
-# Hangman
+# Hangman Simulation
 
 ## Python, Easygui Module
 
